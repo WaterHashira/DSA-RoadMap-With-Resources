@@ -71,24 +71,43 @@ g. Graphs Algorithms:-
 1. Minimum number of edges between two vertices of a graph :-
 
 Using BFS:-   https://www.geeksforgeeks.org/minimum-number-of-edges-between-two-vertices-of-a-graph/
+
 Multi-Source BFS:-
+      
       a) video tutorial:-  https://www.youtube.com/watch?v=VqnXcphp1iE
+      
       b) artical tutorial:-  https://www.geeksforgeeks.org/multi-source-shortest-path-in-unweighted-graph/
+      
       c) Famous Question on it :-  https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1
 
 Using DFS:-  https://www.geeksforgeeks.org/minimum-number-of-edges-between-two-vertices-of-a-graph-using-dfs/
+
 2. Dijkstra Algorithm (Single Pair Shortest Path):- 
+      
       a) video:- https://www.youtube.com/watch?v=XB4MIexjvY0
-     b) article:-  https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+      
+      b) article:-  https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
 3. Floyd Warshall Algorithm (All Pair Shortest Path Algo) (shortest path between all of the pairs of vertices possible in a graph):-
-a) video:- https://www.youtube.com/watch?v=oNI0rf2P9gE
-b) article:- https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
+      
+      a) video:- https://www.youtube.com/watch?v=oNI0rf2P9gE
+      
+      b) article:- https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
+
 4. Topological Sort :-
+       
        a) video:- https://www.youtube.com/watch?v=qe_pQCh09yU
+       
        b) article:- https://www.geeksforgeeks.org/topological-sorting/
+
 5. Kruskal’s Minimum Spanning Tree Algorithm :-
-       a) video :- https://www.youtube.com/watch?v=4ZlRH0eK-qQ
+      
+      a) video :- https://www.youtube.com/watch?v=4ZlRH0eK-qQ
+      
       b) article:-  https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+
 6. Prim’s Minimum Spanning Tree (MST) :-
+      
       a) video:- https://www.youtube.com/watch?v=4ZlRH0eK-qQ
+      
       b) article:- https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
