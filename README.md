@@ -33,27 +33,37 @@ Link:- https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 https://www.youtube.com/playlist?list=PLzZ38XB3bxzRug9gu3DlYaxdX60kEw6Pi
 
 a. Dynamic Programming + Recursion:- 
+
 1. Part1 -  https://www.youtube.com/watch?v=gwaGGkRfcOg&list=PLzZ38XB3bxzRYRJg-1FfznPs17a8ZVeSE&index=2&t=3925s
+
 2. Part2 - https://www.youtube.com/watch?v=k35t409KCtA&list=PLzZ38XB3bxzRYRJg-1FfznPs17a8ZVeSE&index=2
+
 b. Greedy Algorithms :-
+
 Geeks For Geeks playlist for greedy startig from this video (also written material link for the respective video is in discribtion of each video on this playlist):-
+
 1. https://www.youtube.com/watch?v=HzeK7g8cD0Y&list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW
 Written Material Link For this Greedy Algorithm :- https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/ 
+
 2. https://www.youtube.com/watch?v=poWB2UCuozA&list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW&index=2
 Written Material Link For this Greedy Algorithm :- https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/
 
 c. Pattern searching algorithms :-
+
 1. Naive String Algorithm (less efficient) :- https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/
+
 2. Rabin Karp Algo (more efficient)(using Hashing) :-
 https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
 https://www.youtube.com/watch?v=oxd_Z1osgCk&feature=emb_logo
 https://youtu.be/BQ9E-2umSWc [Important]
+
 3. KMP :-
       a) video:- https://www.youtube.com/watch?v=V5-7GzOfADQ
-      b) article:- https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+       b) article:- https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+
 4. Boyer Moore (Pattern Search Algorithms) :- 
        a) Playlist:- https://www.youtube.com/playlist?list=PLzZ38XB3bxzTS5vq-Vg3SkC7sVYOyYP8c
-       b) written:- https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/    
+        b) written:- https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/    
 
 d. Hashing tutorials :-
 playlist :- https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE
